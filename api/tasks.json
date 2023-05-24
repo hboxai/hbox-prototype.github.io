@@ -1,0 +1,95 @@
+{
+        "error": null,
+        "data": {
+                "taskList": [
+                        {
+                                "content": {
+                                        "title": "Take Your Measurement",
+                                        "subtitle": "Consistent measurements help\nspot patterns and adjust care\nplans. Keep it up!",
+                                        "actionText": "Record Manually"
+                                },
+                                "action": "MEASUREMENT",
+                                "position": 0,
+                                "type": "NORMAL"
+                        },
+                        {
+                                "content": {
+                                        "title": "Virtual Consult",
+                                        "subtitle": "Start a virtual consult",
+                                        "actionText": "Start Consult"
+                                },
+                                "action": "VIRTUAL_CONSULT",
+                                "position": 2,
+                                "type": "NORMAL"
+                        },
+                        {
+                                "content": {
+                                        "title": "Care Program",
+                                        "subtitle": "View your care program",
+                                        "actionText": "View Program"
+                                },
+                                "action": "CARE_PROGRAM",
+                                "position": 3,
+                                "type": "NORMAL"
+                        },
+                        {
+                                "content": {
+                                        "title": "Messages HPOD",
+                                        "subtitle": "View your messages",
+                                        "actionText": "View Messages"
+                                },
+                                "action": "MESSAGES_HPOD",
+                                "position": 4,
+                                "type": "NORMAL"
+                        },
+                        {
+                                "content": {
+                                        "title": "Appointments",
+                                        "subtitle": "View your appointments",
+                                        "actionText": "View Appointments"
+                                },
+                                "action": "APPOINTMENTS",
+                                "position": 5,
+                                "type": "NORMAL"
+                        },
+                        {
+                                "content": {
+                                        "title": "Recommended Watch",
+                                        "subtitle": "Watch this recommended video",
+                                        "actionText": "Watch Now"
+                                },
+                                "action": "RECOMMENDED_WATCH",
+                                "position": 6,
+                                "type": "NORMAL"
+                        },
+                        {
+                                "content": {
+                                        "title": "Upcoming Appointment",
+                                        "doctor": {
+                                                "image": "url",
+                                                "name": "dr s",
+                                                "speciality": "Heart Specialist",
+                                                "time": "11:00 - 11:30 AM",
+                                                "date": "10 January, 2023"
+                                        },
+                                        "actionText": "Record Manually"
+                                },
+                                "action": "UPCOMING_APPOINTMENT",
+                                "position": 7,
+                                "type": "APPOINTMENT"
+                        },
+                        {
+                                "content": {
+                                        "title": "YOGA",
+                                        "subtitle": "Watch this video for yoga",
+                                        "bgImage": "imageUrl",
+                                        "actionText": "WATCH_NOW"
+                                },
+                                "action": "MEDIA",
+                                "position": 8,
+                                "contentId": 456,
+                                "type": "IMAGE_BG"
+                        }
+                ]
+        }
+}
