@@ -66,8 +66,8 @@
                                 "content": {
                                         "title": "Upcoming Appointment",
                                         "doctor": {
-                                                "image": "url",
-                                                "name": "dr s",
+                                                "image": "https://hboxai.github.io/prototype/images/doctor_icon.png",
+                                                "name": "Dr. Cameron Williamson",
                                                 "speciality": "Heart Specialist",
                                                 "time": "11:00 - 11:30 AM",
                                                 "date": "10 January, 2023"
