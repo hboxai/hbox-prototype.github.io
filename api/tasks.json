@@ -82,7 +82,7 @@
                                 "content": {
                                         "title": "YOGA",
                                         "subtitle": "Watch this video for yoga",
-                                        "bgImage": "imageUrl",
+                                        "bgImage": "https://hboxai.github.io/prototype/images/article_img.png",
                                         "actionText": "WATCH_NOW"
                                 },
                                 "action": "MEDIA",
