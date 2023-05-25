@@ -10,7 +10,7 @@
   "clinicId": 1,
   "doctor": "Dr. Smith",
   "doctorId": 1,
-  "profilePictureUrl": "https://example.com/profile.jpg",
+  "profilePictureUrl": "https://hboxai.github.io/prototype/images/user_icon.png",
   "userInfoForMappingList": [
     {
       "ppId": 1,
