@@ -1,0 +1,21 @@
+{
+  "userId": 123,
+  "firstName": "John",
+  "lastName": "Doe",
+  "dob": "1980-01-01",
+  "insuranceId": "123456789",
+  "stateName": "California",
+  "stateCode": "CA",
+  "clinic": "ABC Clinic",
+  "clinicId": 1,
+  "doctor": "Dr. Smith",
+  "doctorId": 1,
+  "profilePictureUrl": "https://example.com/profile.jpg",
+  "userInfoForMappingList": [
+    {
+      "ppId": 1,
+      "uId": 10,
+      "insuranceId": "123456789"
+    }
+  ]
+}

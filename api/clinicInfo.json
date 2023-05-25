@@ -1,0 +1,16 @@
+{
+	"error": null,
+	"data": {
+		"clinic": {
+			"image": "url",
+			"name": "hospital",
+			"address": "132B",
+			"contact": "+1 8965-8566-56121"
+		},
+		"providers": [{
+			"image": "url",
+			"name": "Cameron",
+			"designation": "Care coach"
+		}]
+	}
+}
