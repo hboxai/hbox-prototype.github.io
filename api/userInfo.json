@@ -1,21 +1,22 @@
 {
-  "userId": 123,
-  "firstName": "John",
-  "lastName": "Doe",
-  "dob": "1980-01-01",
-  "insuranceId": "123456789",
-  "stateName": "California",
-  "stateCode": "CA",
-  "clinic": "ABC Clinic",
-  "clinicId": 1,
-  "doctor": "Dr. Smith",
-  "doctorId": 1,
-  "profilePictureUrl": "https://hboxai.github.io/prototype/images/user_icon.png",
-  "userInfoForMappingList": [
-    {
-      "ppId": 1,
-      "uId": 10,
-      "insuranceId": "123456789"
-    }
-  ]
+	"error": null,
+	"data": {
+		"userId": 123,
+		"firstName": "John",
+		"lastName": "Doe",
+		"dob": "1980-01-01",
+		"insuranceId": "123456789",
+		"stateName": "California",
+		"stateCode": "CA",
+		"clinic": "ABC Clinic",
+		"clinicId": 1,
+		"doctor": "Dr. Smith",
+		"doctorId": 1,
+		"profilePictureUrl": "https://hboxai.github.io/prototype/images/user_icon.png",
+		"userInfoForMappingList": [{
+			"ppId": 1,
+			"uId": 10,
+			"insuranceId": "123456789"
+		}]
+	}
 }
