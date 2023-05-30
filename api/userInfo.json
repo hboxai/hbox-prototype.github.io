@@ -2,6 +2,7 @@
 	"error": null,
 	"data": {
 		"userId": 123,
+		"registrationStatus" : "EMAIL_VERIFIED",
 		"firstName": "John",
 		"lastName": "Doe",
 		"dob": "1980-01-01",
