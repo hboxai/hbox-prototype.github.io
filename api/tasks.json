@@ -18,7 +18,7 @@
                                         "subtitle": "Start a virtual consult",
                                         "actionText": "Start Consult"
                                 },
-                                "action": "VIRTUAL_CONSULT",
+                                "action": "NEW_VC",
                                 "position": 2,
                                 "type": "NORMAL"
                         },
@@ -48,7 +48,7 @@
                                         "subtitle": "View your appointments",
                                         "actionText": "View Appointments"
                                 },
-                                "action": "APPOINTMENTS",
+                                "action": "NEW_APPOINTMENT",
                                 "position": 5,
                                 "type": "NORMAL"
                         },
